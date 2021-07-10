@@ -246,7 +246,7 @@ class TileLayerOptions extends LayerOptions {
     this.urlTemplate,
     double tileSize = 256.0,
     double minZoom = 0.0,
-    double maxZoom = 18.0,
+    double maxZoom = 26.0,
     this.minNativeZoom,
     this.maxNativeZoom,
     this.zoomReverse = false,
